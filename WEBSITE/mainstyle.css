@@ -1,0 +1,53 @@
+
+.lilac{
+    color:rgb(176, 130, 219);
+    font-family:arial;
+    font-size:24px;
+   
+}
+#cyan{
+
+    color:rgb(53, 255, 255);
+    font-family:arial;
+    font-size:24px;
+}
+
+#purple{
+    color:rgb(104, 51, 104);
+    font-family:arial;
+    font-size:24px;
+}
+
+.heading{
+
+    color:black;
+    font-family:Arial;
+    font-size:36px;
+    font-style: italic;
+    text-decoration: none
+}
+
+#story{
+color:white;
+font-family:Helvetica;
+font-size:30px;
+}
+
+#title{
+    color:slateblue;
+    font-size: 44px;
+    font-weight: bold;
+}
+
+#portfolio{
+    color:white;
+    font-family:Arial;
+    font-size: 30px;
+}
+
+#description{
+    color:rgb(214, 254, 255);
+    font-family:Arial;
+    font-size: 25px;
+
+}
